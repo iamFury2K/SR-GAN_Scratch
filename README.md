@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 
    ```sh
    git clone https://github.com/iamFury2K/SR-GAN_Scratch.git
-   cd Project-Name
+   cd SR-GAN_Scratch
    ```
 
 2. **Install required Python libraries**
